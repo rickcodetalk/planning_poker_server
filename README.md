@@ -1,2 +1,2 @@
 # planning_poker_server
-Project Planning Poker - Client
+Project Planning Poker - Server
